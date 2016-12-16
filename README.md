@@ -1,5 +1,5 @@
 # Pepper&Carrot translation project
-# Episode 20:
+# Episode 20: The Picnic
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
 
@@ -13,6 +13,7 @@ License
 
 ## Translators and correctors:
 
+* English: Alex Gryson
 * French: David Revoy
 * Italian: Carlo Gandolfi
 * Lojban: Gleki Arxokuna
