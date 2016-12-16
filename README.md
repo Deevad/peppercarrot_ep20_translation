@@ -14,6 +14,7 @@ License
 ## Translators and correctors:
 
 * French: David Revoy
+* Italian: Carlo Gandolfi
 * Lojban: Gleki Arxokuna
 * Mexicano: RJ Quiralta
 
