@@ -14,7 +14,7 @@ License
 ## Translators and correctors:
 
 * French: David Revoy
-
+* Lojban: Gleki Arxokuna
 
 ## Artwork:
 
