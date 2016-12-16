@@ -14,13 +14,8 @@ License
 ## Translators and correctors:
 
 * French: David Revoy
-<<<<<<< HEAD
 * Lojban: Gleki Arxokuna
-=======
-
 * Mexicano: RJ Quiralta
-
->>>>>>> c4e7cefc4b1b1589dff55a8edf118d7026fbae5a
 
 ## Artwork:
 
