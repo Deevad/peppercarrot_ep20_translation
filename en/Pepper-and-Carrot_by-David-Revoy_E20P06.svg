@@ -204,9 +204,9 @@
      inkscape:window-height="1042"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.3478261"
-     inkscape:cx="1070.8951"
-     inkscape:cy="958.9763"
+     inkscape:zoom="0.80454291"
+     inkscape:cx="874.30747"
+     inkscape:cy="568.93827"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="1"
@@ -217,13 +217,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E20P06.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep20_The-Picnic/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E20P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E20P06.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -281,6 +281,6 @@
          x="1240.6473"
          y="3372.8738"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#ffffff;stroke:#ffffff"
-         id="tspan4169">Licence : Creative Commons Attribution 4.0, Software: Krita 3.1, Inkscape 0.91 on Manjaro XFCE</tspan></text>
+         id="tspan4169">License : Creative Commons Attribution 4.0, Software: Krita 3.1, Inkscape 0.91 on Manjaro XFCE</tspan></text>
   </g>
 </svg>
