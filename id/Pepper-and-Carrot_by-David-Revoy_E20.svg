@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.48.4 r9939"
    width="1100"
    height="765"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E20.svg">
@@ -166,14 +166,14 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1151"
-     inkscape:window-height="713"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.62909091"
+     inkscape:zoom="0.87189542"
      inkscape:cx="550"
-     inkscape:cy="382.5"
-     inkscape:window-x="54"
+     inkscape:cy="198.99175"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2" />
@@ -183,28 +183,28 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true" />
   <image
-     sodipodi:absref="F:\pc\peppercarrot_ep20_translation\jbo\..\gfx_Pepper-and-Carrot_by-David-Revoy_E20.png"
+     sodipodi:absref="D:\PEPPERCARROT\peppercarrot_ep20_translation-master\id\../gfx_Pepper-and-Carrot_by-David-Revoy_E20.png"
      xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E20.png"
-     width="1100"
-     height="765"
-     id="image10"
+     y="0"
      x="0"
-     y="0" />
+     id="image10"
+     height="765"
+     width="1100" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="txt">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.36682606px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter3836-1-7)"
-       x="94.047813"
+       style="font-size:8.36682606px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;filter:url(#filter3836-1-7);font-family:Arial;-inkscape-font-specification:Arial"
+       x="374.83203"
        y="736.31476"
        id="text4183"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4185"
-         x="94.047813"
+         x="374.83203"
          y="736.31476"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi">i 20 moi fa la'e lu sanmi bu'u lo nurma li'u</tspan></text>
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi">Episode 20: Piknik</tspan></text>
   </g>
 </svg>

@@ -17,9 +17,12 @@ License
 * English: Alex Gryson
 * French: David Revoy
 * Italian: Carlo Gandolfi
+* Indonesian: Bonaventura Aditya Perdana
+* Italian: Carlo Gandolfi, corrections: Antonio Parisi
 * Korean: Shikamaru Yamamoto
 * Lojban: Gleki Arxokuna
 * Mexicano: RJ Quiralta
+* Swedish: Mikael Olofsson
 
 ## Artwork:
 
