@@ -16,6 +16,7 @@ License
 * Czech: Kateřina Fleknová
 * English: Alex Gryson
 * French: David Revoy
+* Indonesian: Bonaventura Aditya Perdana
 * Italian: Carlo Gandolfi
 * Lojban: Gleki Arxokuna
 * Mexicano: RJ Quiralta
