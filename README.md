@@ -19,6 +19,7 @@ License
 * Italian: Carlo Gandolfi
 * Lojban: Gleki Arxokuna
 * Mexicano: RJ Quiralta
+* Swedish: Mikael Olofsson
 
 ## Artwork:
 
