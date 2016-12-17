@@ -17,6 +17,7 @@ License
 * English: Alex Gryson
 * French: David Revoy
 * Italian: Carlo Gandolfi
+* Korean: Shikamaru Yamamoto
 * Lojban: Gleki Arxokuna
 * Mexicano: RJ Quiralta
 
@@ -42,7 +43,7 @@ This folder contains all ready to use built pages in all available language :
 
 * Long strip version in a long single picture (lowres/single-page, Jpeg 92% quality)
 
-* Krita original sources files (zip folder, zipped kra files) 
+* Krita original sources files (zip folder, zipped kra files)
 
 
 ## Info:
