@@ -19,6 +19,7 @@ License
 * Italian: Carlo Gandolfi
 * Indonesian: Bonaventura Aditya Perdana
 * Italian: Carlo Gandolfi, corrections: Antonio Parisi
+* Japanese: guruguru
 * Korean: Shikamaru Yamamoto
 * Lojban: Gleki Arxokuna
 * Mexicano: RJ Quiralta
