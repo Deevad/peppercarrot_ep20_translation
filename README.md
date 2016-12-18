@@ -14,6 +14,7 @@ License
 ## Translators and correctors:
 
 * Czech: Kateřina Fleknová
+* Dutch: Midgard
 * English: Alex Gryson
 * French: David Revoy
 * Italian: Carlo Gandolfi
