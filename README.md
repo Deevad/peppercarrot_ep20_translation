@@ -24,6 +24,7 @@ License
 * Korean: Shikamaru Yamamoto
 * Lojban: Gleki Arxokuna
 * Mexicano: RJ Quiralta
+* Russian: Gleki Arxokuna
 * Swedish: Mikael Olofsson
 
 ## Artwork:
