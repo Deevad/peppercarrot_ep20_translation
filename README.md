@@ -17,6 +17,7 @@ License
 * Dutch: Midgard
 * English: Alex Gryson
 * French: David Revoy
+* Hungarian: Halász Gábor "Hali"
 * Italian: Carlo Gandolfi
 * Indonesian: Bonaventura Aditya Perdana
 * Italian: Carlo Gandolfi, corrections: Antonio Parisi
