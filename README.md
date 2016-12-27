@@ -27,6 +27,7 @@ License
 * Polish: Sölve Svartskogen
 * Russian: Gleki Arxokuna
 * Swedish: Mikael Olofsson
+* Vietnamese: Phiên bản Tiếng Việt
 
 ## Artwork:
 
