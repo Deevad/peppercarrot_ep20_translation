@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.48.1 r9760"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E20P06.svg">
@@ -200,16 +200,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1042"
+     inkscape:window-width="1280"
+     inkscape:window-height="752"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.80454291"
-     inkscape:cx="874.30747"
-     inkscape:cy="568.93827"
-     inkscape:window-x="0"
-     inkscape:window-y="23"
-     inkscape:window-maximized="1"
+     inkscape:cx="700.28644"
+     inkscape:cy="412.95836"
+     inkscape:window-x="-8"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
@@ -217,13 +217,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep20_The-Picnic/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E20P06.png"
+       sodipodi:absref="/Users/su_huynh/Downloads/peppercarrot_ep20_translation-master/vi/../gfx_Pepper-and-Carrot_by-David-Revoy_E20P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E20P06.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -235,7 +235,7 @@
      inkscape:label="txt">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.55184174px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:3.82200003;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter5534-8)"
+       style="font-size:63.55184174000000041px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:3.82200002999999988;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter5534-8);font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
        x="2028.7821"
        y="2443.6147"
        id="text4213"
@@ -245,34 +245,34 @@
          id="tspan4215"
          x="2028.7821"
          y="2443.6147"
-         style="fill:#ffffff;stroke:#ffffff;stroke-width:3.82200003;stroke-miterlimit:4;stroke-dasharray:none">- FIN -</tspan></text>
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:3.82200002999999988;stroke-miterlimit:4;stroke-dasharray:none;-inkscape-font-specification:'Rounded M+ 1c Medium';font-family:'Rounded M+ 1c';font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal">- HẾT -</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.79592609px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;filter:url(#filter5522-4)"
+       style="font-size:9.79592609px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;filter:url(#filter5522-4);font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
        x="1240.0964"
        y="3299.01"
        id="text4246-42"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         style="font-size:36.73472214px;fill:#ffffff;stroke:#ffffff"
+         style="font-size:36.73472214px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#ffffff;stroke:#ffffff;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
          x="1240.0964"
          y="3299.01"
-         id="tspan4252-9">12/2016 - www.peppercarrot.com - Art &amp; Scenario : David Revoy</tspan></text>
+         id="tspan4252-9">12/2016 - www.peppercarrot.com - Đồ Họa &amp; Câu Chuyện : David Revoy</tspan></text>
     <text
        xml:space="preserve"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.75px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.85500004;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;filter:url(#filter5546);enable-background:accumulate"
+       style="font-size:28.75px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;opacity:0.85500004;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;visibility:visible;display:inline;overflow:visible;filter:url(#filter5546);enable-background:accumulate;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c'"
        x="1242.353"
        y="3335.1028"
        id="text4246-42-4"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;enable-background:accumulate"
+         style="font-size:27.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c'"
          x="1242.353"
          y="3335.1028"
-         id="tspan4252-9-9">Based on the universe of Hereva created by David Revoy with contributions by Craig Maloney. Corrections by Willem Sonke, Moini, Hali, CGand and Alex Gryson.</tspan></text>
+         id="tspan4252-9-9">Soạn từ vũ trụ Hereva được sáng tạo bởi David Revoy và góp ý từ Craig Maloney. Chỉnh sửa bởi Willem Sonke, Moini, Hali, CGand và Alex Gryson.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.72782516px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.85500004;fill:#ffffff;fill-opacity:1;stroke:#ffffff;filter:url(#filter5558-7)"
+       style="font-size:9.72782516px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.85500004;fill:#ffffff;fill-opacity:1;stroke:#ffffff;display:inline;filter:url(#filter5558-7);font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c'"
        x="1240.6473"
        y="3372.8738"
        id="text4229"
@@ -280,7 +280,7 @@
          sodipodi:role="line"
          x="1240.6473"
          y="3372.8738"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#ffffff;stroke:#ffffff"
-         id="tspan4169">License : Creative Commons Attribution 4.0, Software: Krita 3.1, Inkscape 0.91 on Manjaro XFCE</tspan></text>
+         style="font-size:27.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;stroke:#ffffff;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c'"
+         id="tspan4169">Bản phép : Creative Commons Attribution 4.0, Phần Mềm: Krita 3.1, Inkscape 0.91 dùng Manjaro XFCE</tspan></text>
   </g>
 </svg>
