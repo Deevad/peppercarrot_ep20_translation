@@ -1,4 +1,4 @@
-# Pepper&Carrot translation project
+﻿# Pepper&Carrot translation project
 # Episode 20: The Picnic
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
@@ -25,6 +25,7 @@ License
 * Lojban: Gleki Arxokuna
 * Mexicano: RJ Quiralta
 * Polish: Sölve Svartskogen
+* Portuguese: Alexandre Almeida
 * Russian: Gleki Arxokuna
 * Swedish: Mikael Olofsson
 * Vietnamese: Phiên bản Tiếng Việt
