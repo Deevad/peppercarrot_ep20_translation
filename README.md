@@ -1,4 +1,4 @@
-# Pepper&Carrot translation project
+﻿# Pepper&Carrot translation project
 # Episode 20: The Picnic
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
@@ -16,6 +16,7 @@ License
 * Czech: Kateřina Fleknová
 * Dutch: Midgard
 * English: Alex Gryson
+* Finnish: Kari Lehto* French: David Revoy
 * French: David Revoy
 * Hungarian: Halász Gábor "Hali"
 * Italian: Carlo Gandolfi
