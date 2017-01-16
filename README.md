@@ -1,4 +1,4 @@
-﻿# Pepper&Carrot translation project
+# Pepper&Carrot translation project
 # Episode 20: The Picnic
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
@@ -18,6 +18,7 @@ License
 * English: Alex Gryson
 * French: David Revoy
 * Hungarian: Halász Gábor "Hali"
+* Italian: Carlo Gandolfi
 * Indonesian: Bonaventura Aditya Perdana
 * Italian: Carlo Gandolfi, corrections: Antonio Parisi
 * Japanese: guruguru
@@ -26,6 +27,7 @@ License
 * Mexicano: RJ Quiralta
 * Polish: Sölve Svartskogen
 * Portuguese: Alexandre Almeida
+* Norwegian: Thomas Nordstrøm
 * Russian: Gleki Arxokuna
 * Swedish: Mikael Olofsson
 * Vietnamese: Phiên bản Tiếng Việt
