@@ -30,6 +30,7 @@ License
 * Portuguese: Alexandre Almeida
 * Norwegian: Thomas Nordstrøm
 * Russian: Gleki Arxokuna
+* Slovak: talime
 * Swedish: Mikael Olofsson
 * Vietnamese: Phiên bản Tiếng Việt
 

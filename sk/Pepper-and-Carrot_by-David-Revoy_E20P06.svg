@@ -200,14 +200,14 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1855"
-     inkscape:window-height="1176"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.28444887"
-     inkscape:cx="1326.2442"
-     inkscape:cy="752.66953"
-     inkscape:window-x="65"
+     inkscape:zoom="0.56889775"
+     inkscape:cx="1146.8065"
+     inkscape:cy="1279.0835"
+     inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
@@ -217,7 +217,7 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/thomas/Copy/PepperCarrot/Git/peppercarrot_ep20_translation/no/../gfx_Pepper-and-Carrot_by-David-Revoy_E20P06.png"
+       sodipodi:absref="/home/talime/Dokumenty/peppercarrot_ep20_translation-master/sk/../gfx_Pepper-and-Carrot_by-David-Revoy_E20P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E20P06.png"
        y="0"
        x="0"
@@ -245,7 +245,7 @@
          id="tspan4215"
          x="2028.7821"
          y="2443.6147"
-         style="fill:#ffffff;stroke:#ffffff;stroke-width:3.82200003;stroke-miterlimit:4;stroke-dasharray:none">- Slutt -</tspan></text>
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:3.82200003;stroke-miterlimit:4;stroke-dasharray:none">- KONIEC -</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.79592609px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;filter:url(#filter5522-4)"
@@ -257,7 +257,7 @@
          style="font-size:36.73472214px;fill:#ffffff;stroke:#ffffff"
          x="1240.0964"
          y="3299.01"
-         id="tspan4252-9">12/2016 - www.peppercarrot.com - Tegnet og fortalt av : David Revoy</tspan></text>
+         id="tspan4252-9">12/2016 - www.peppercarrot.com - Nakreslil a napísal : David Revoy</tspan></text>
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.75px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.85500004;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;filter:url(#filter5546);enable-background:accumulate"
@@ -269,7 +269,7 @@
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;enable-background:accumulate"
          x="1242.353"
          y="3335.1028"
-         id="tspan4252-9-9">Basert på David Revoys Hereva-univers med bidrag fra Craig Maloney. Rettelser av Willem Sonke, Moini, Hali, CGand og Alex Gryson.</tspan></text>
+         id="tspan4252-9-9">Založené na svete Hereva, ktorý vytvoril David Revoy s prispením Craiga Maloneyho. Korekcie: Willem Sonke, Moini, Hali, CGand a Alex Gryson.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.72782516px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.85500004;fill:#ffffff;fill-opacity:1;stroke:#ffffff;filter:url(#filter5558-7)"
@@ -281,6 +281,6 @@
          x="1240.6473"
          y="3372.8738"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#ffffff;stroke:#ffffff"
-         id="tspan4169">Lisens : Creative Commons Attribution 4.0, Programvare: Krita 3.1, Inkscape 0.91 på Manjaro XFCE</tspan></text>
+         id="tspan4169">Licencia : Creative Commons Attribution 4.0, Softvér: Krita 3.1, Inkscape 0.91 na Manjaro XFCE</tspan></text>
   </g>
 </svg>

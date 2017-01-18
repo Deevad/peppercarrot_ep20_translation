@@ -166,14 +166,14 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1855"
-     inkscape:window-height="1056"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.39976064"
-     inkscape:cx="548.67282"
-     inkscape:cy="-185.77239"
-     inkscape:window-x="65"
+     inkscape:zoom="0.61652316"
+     inkscape:cx="480.2931"
+     inkscape:cy="320.86404"
+     inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2" />
@@ -183,7 +183,7 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true" />
   <image
-     sodipodi:absref="/home/thomas/Data/Copy/PepperCarrot/Git/peppercarrot_ep20_translation/no/../gfx_Pepper-and-Carrot_by-David-Revoy_E20.png"
+     sodipodi:absref="/home/talime/Dokumenty/peppercarrot_ep20_translation-master/sk/../gfx_Pepper-and-Carrot_by-David-Revoy_E20.png"
      xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E20.png"
      y="0"
      x="0"
@@ -205,6 +205,6 @@
          id="tspan4185"
          x="298.83203"
          y="736.31476"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi">Episode 20: Landturen</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi">Epizóda 20: Piknik</tspan></text>
   </g>
 </svg>
