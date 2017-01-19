@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="2481"
+   height="3503"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E20P06.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter5558-7">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood5560-45" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite5562-2" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1"
+         result="blur"
+         id="feGaussianBlur5564-5" />
+      <feOffset
+         dx="2.5"
+         dy="2.5"
+         result="offset"
+         id="feOffset5566-47" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite5568-4" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter5546">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood5548" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite5550" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1"
+         result="blur"
+         id="feGaussianBlur5552" />
+      <feOffset
+         dx="2.5"
+         dy="2.5"
+         result="offset"
+         id="feOffset5554" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite5556" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter5546-3-4">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood5548-6-3" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite5550-7-0" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1"
+         result="blur"
+         id="feGaussianBlur5552-5-78" />
+      <feOffset
+         dx="2.5"
+         dy="2.5"
+         result="offset"
+         id="feOffset5554-3-68" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite5556-5-8" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter5522-4">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood5524-3" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite5526-14" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1"
+         result="blur"
+         id="feGaussianBlur5528-92" />
+      <feOffset
+         dx="2.5"
+         dy="2.5"
+         result="offset"
+         id="feOffset5530-0" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite5532-6" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter5534-8">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood5536-9" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite5538-26" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1"
+         result="blur"
+         id="feGaussianBlur5540-64" />
+      <feOffset
+         dx="2.5"
+         dy="2.5"
+         result="offset"
+         id="feOffset5542-95" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite5544-0" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter4587">
+      <feFlood
+         flood-opacity="0.905882"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood4589" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4591" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="8.3"
+         result="blur"
+         id="feGaussianBlur4593" />
+      <feOffset
+         dx="4.4"
+         dy="4.7"
+         result="offset"
+         id="feOffset4595" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite4597" />
+    </filter>
+    <filter
+       id="filter4614"
+       inkscape:label="Drop Shadow"
+       style="color-interpolation-filters:sRGB">
+      <feFlood
+         id="feFlood4616"
+         result="flood"
+         flood-color="rgb(0,0,0)"
+         flood-opacity="1" />
+      <feComposite
+         id="feComposite4618"
+         result="composite1"
+         operator="in"
+         in2="SourceGraphic"
+         in="flood" />
+      <feGaussianBlur
+         id="feGaussianBlur4620"
+         result="blur"
+         stdDeviation="1"
+         in="composite1" />
+      <feOffset
+         id="feOffset4622"
+         result="offset"
+         dy="2.5"
+         dx="2.5" />
+      <feComposite
+         id="feComposite4624"
+         result="composite2"
+         operator="over"
+         in2="offset"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter5546-3-4-1">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood5548-6-3-4" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite5550-7-0-0" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1"
+         result="blur"
+         id="feGaussianBlur5552-5-78-9" />
+      <feOffset
+         dx="2.5"
+         dy="2.5"
+         result="offset"
+         id="feOffset5554-3-68-6" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite5556-5-8-7" />
+    </filter>
+    <filter
+       id="filter4614-1"
+       inkscape:label="Drop Shadow"
+       style="color-interpolation-filters:sRGB">
+      <feFlood
+         id="feFlood4616-9"
+         result="flood"
+         flood-color="rgb(0,0,0)"
+         flood-opacity="1" />
+      <feComposite
+         id="feComposite4618-3"
+         result="composite1"
+         operator="in"
+         in2="SourceGraphic"
+         in="flood" />
+      <feGaussianBlur
+         id="feGaussianBlur4620-5"
+         result="blur"
+         stdDeviation="1"
+         in="composite1" />
+      <feOffset
+         id="feOffset4622-4"
+         result="offset"
+         dy="2.5"
+         dx="2.5" />
+      <feComposite
+         id="feComposite4624-1"
+         result="composite2"
+         operator="over"
+         in2="offset"
+         in="SourceGraphic" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="847"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.40227146"
+     inkscape:cx="1258.2599"
+     inkscape:cy="2448.964"
+     inkscape:window-x="1358"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="artwork"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="D:\Pepper &amp; Carrot Translation Project\Episode 20\peppercarrot_ep20_translation-master\fa\..\gfx_Pepper-and-Carrot_by-David-Revoy_E20P06.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E20P06.png"
+       y="0"
+       x="0"
+       id="image10"
+       height="3503"
+       width="2481" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="speechbubbles" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="txt">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.55184174px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.82200003;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="2028.6665"
+       y="2409.9751"
+       id="text4213"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.75304346,0,-0.11971288,1.3279446,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4215"
+         x="2028.6665"
+         y="2409.9751"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:60px;line-height:100%;font-family:Midan;-inkscape-font-specification:'Midan Heavy';fill:#ffffff;stroke:none;stroke-width:3.82200003;stroke-miterlimit:4;stroke-dasharray:none">- پایان -</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2987-4-9-3-6-3-8-7-2-7-2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.26861858px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter4614)"
+       transform="translate(358.84079,3258.8108)"><flowRegion
+         id="flowRegion2989-5-4-5-5-3-0-6-76-8-1"><rect
+           id="rect2991-7-9-6-21-9-8-0-3-1-7"
+           width="2074.8857"
+           height="110.79298"
+           x="-156.74852"
+           y="-17.520679"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:Midan;-inkscape-font-specification:Midan;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         id="flowPara3272-6-3-1">ژانویه 2017 - www.peppercarrot.com - تصویرسازی و داستان: دیوید ریوی - ترجمه: اصلان زمانلو</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.75px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#fefefe;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter5546-3-4-1);enable-background:accumulate"
+       x="1240.6848"
+       y="3325.9231"
+       id="text4246-42-4-66"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:125%;font-family:Midan;-inkscape-font-specification:Midan;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#fefefe;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate"
+         x="1240.6848"
+         y="3325.9231"
+         id="tspan4252-9-9-7">بر اساس کهکشان هروا ساخته دیوید ریوی همرا با همکاری کری ملونی. تصحیحات توسط ویلیام سونکه، موینی، هالی، سی جی اند و الکس گریسون.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.72782516px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter4614-1)"
+       x="1240.332"
+       y="3378.1272"
+       id="text4229-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1240.332"
+         y="3378.1272"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:Midan;-inkscape-font-specification:Midan;fill:#ffffff;fill-opacity:1"
+         id="tspan4169-5">لایسنس: Creative Commons Attribution 4.0, نرم افزار: Krita 3.1, Inkscape 0.91 on Manjaro XFCE</tspan></text>
+  </g>
+</svg>
