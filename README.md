@@ -16,8 +16,11 @@ License
 * Czech: Kateřina Fleknová
 * Dutch: Midgard
 * English: Alex Gryson
+* Farsi: Aslan Zamanloo
+* Finnish: Kari Lehto* French: David Revoy
 * French: David Revoy
 * Hungarian: Halász Gábor "Hali"
+* Italian: Carlo Gandolfi
 * Indonesian: Bonaventura Aditya Perdana
 * Italian: Carlo Gandolfi, corrections: Antonio Parisi
 * Japanese: guruguru
@@ -26,7 +29,9 @@ License
 * Mexicano: RJ Quiralta
 * Polish: Sölve Svartskogen
 * Portuguese: Alexandre Almeida
+* Norwegian: Thomas Nordstrøm
 * Russian: Gleki Arxokuna
+* Slovak: talime
 * Swedish: Mikael Olofsson
 * Vietnamese: Phiên bản Tiếng Việt
 
