@@ -16,6 +16,7 @@ License
 * Czech: Kateřina Fleknová
 * Dutch: Midgard
 * English: Alex Gryson
+* Farsi: Aslan Zamanloo
 * Finnish: Kari Lehto* French: David Revoy
 * French: David Revoy
 * Hungarian: Halász Gábor "Hali"
