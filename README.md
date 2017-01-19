@@ -1,4 +1,4 @@
-﻿# Pepper&Carrot translation project
+# Pepper&Carrot translation project
 # Episode 20: The Picnic
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
@@ -17,19 +17,19 @@ License
 * Dutch: Midgard
 * English: Alex Gryson
 * Farsi: Aslan Zamanloo
-* Finnish: Kari Lehto* French: David Revoy
+* Finnish: Kari Lehto
 * French: David Revoy
+* German: Carlo Gandolfi
 * Hungarian: Halász Gábor "Hali"
-* Italian: Carlo Gandolfi
 * Indonesian: Bonaventura Aditya Perdana
 * Italian: Carlo Gandolfi, corrections: Antonio Parisi
 * Japanese: guruguru
 * Korean: Shikamaru Yamamoto
 * Lojban: Gleki Arxokuna
 * Mexicano: RJ Quiralta
+* Norwegian: Thomas Nordstrøm
 * Polish: Sölve Svartskogen
 * Portuguese: Alexandre Almeida
-* Norwegian: Thomas Nordstrøm
 * Russian: Gleki Arxokuna
 * Slovak: talime
 * Swedish: Mikael Olofsson
