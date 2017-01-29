@@ -13,6 +13,7 @@ License
 
 ## Translators and correctors:
 
+* Catalan: Juan José Segura
 * Czech: Kateřina Fleknová
 * Dutch: Midgard
 * English: Alex Gryson
