@@ -30,7 +30,7 @@ License
 * Mexicano: RJ Quiralta
 * Norwegian: Thomas Nordstrøm
 * Polish: Sölve Svartskogen
-* Portuguese: Alexandre Almeida
+* Portuguese: Alexandre E. Almeida
 * Russian: Gleki Arxokuna
 * Slovak: talime
 * Swedish: Mikael Olofsson
