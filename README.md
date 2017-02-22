@@ -14,6 +14,7 @@ License
 ## Translators and correctors:
 
 * Catalan: Juan José Segura
+* Chinese: Ran Zhuang
 * Czech: Kateřina Fleknová
 * Dutch: Midgard
 * English: Alex Gryson
