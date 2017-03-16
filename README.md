@@ -23,6 +23,7 @@ License
 * French: David Revoy
 * German: Carlo Gandolfi
 * Hungarian: Halász Gábor "Hali"
+* Ido: Gilles-Philippe Morin
 * Indonesian: Bonaventura Aditya Perdana
 * Italian: Carlo Gandolfi, corrections: Antonio Parisi
 * Japanese: guruguru
