@@ -200,16 +200,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1063"
+     inkscape:window-width="960"
+     inkscape:window-height="962"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.3478261"
-     inkscape:cx="1076.6451"
-     inkscape:cy="958.9763"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:zoom="0.37"
+     inkscape:cx="1254.6934"
+     inkscape:cy="747.99029"
+     inkscape:window-x="960"
+     inkscape:window-y="30"
+     inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
@@ -217,13 +217,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/sandbox/peppercarrot_ep20_translation/kr/../gfx_Pepper-and-Carrot_by-David-Revoy_E20P06.png"
+       sodipodi:absref="/home/nightlock/peppercarrot-translations/peppercarrot_ep20_translation/kr/../gfx_Pepper-and-Carrot_by-David-Revoy_E20P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E20P06.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -235,52 +235,55 @@
      inkscape:label="txt">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.55184174px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:3.82200003;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter5534-8)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.55184174px;line-height:125%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.21194155;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter5534-8);"
        x="2028.7821"
        y="2443.6147"
        id="text4213"
        sodipodi:linespacing="125%"
-       transform="matrix(0.75304346,0,-0.11971288,1.3279446,3e-5,11.481528)"><tspan
+       transform="matrix(1.0405593,0,-0.16541987,1.2708121,-472.60729,149.83826)"><tspan
          sodipodi:role="line"
          id="tspan4215"
          x="2028.7821"
          y="2443.6147"
-         style="fill:#ffffff;stroke:#ffffff;stroke-width:3.82200003;stroke-miterlimit:4;stroke-dasharray:none">- 끝 -</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';fill:#ffffff;stroke:#ffffff;stroke-width:2.21194155;stroke-miterlimit:4;stroke-dasharray:none;">- 끝 -</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.79592609px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;filter:url(#filter5522-4)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.79592609px;line-height:125%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;filter:url(#filter5522-4);stroke-width:0.81;"
        x="1240.0964"
        y="3299.01"
        id="text4246-42"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       transform="matrix(1.2179939,0,0,1.2179939,-270.21747,-716.88407)"><tspan
          sodipodi:role="line"
-         style="font-size:36.73472214px;fill:#ffffff;stroke:#ffffff"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.73472214px;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';fill:#ffffff;stroke:#ffffff;stroke-width:0.81;"
          x="1240.0964"
          y="3299.01"
-         id="tspan4252-9">12/2016 - www.peppercarrot.com - Art &amp; Scenario : David Revoy</tspan></text>
+         id="tspan4252-9">2016/12 - www.peppercarrot.com - 그림 및 이야기 : David Revoy</tspan></text>
     <text
        xml:space="preserve"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.75px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.85500004;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;filter:url(#filter5546);enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.75px;line-height:125%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.85500004;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;filter:url(#filter5546);enable-background:accumulate;stroke-width:0.478297;"
        x="1242.353"
        y="3335.1028"
        id="text4246-42-4"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       transform="matrix(1.351418,0,0,1.351418,-436.17271,-1169.0867)"><tspan
          sodipodi:role="line"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;enable-background:accumulate"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;enable-background:accumulate;stroke-width:0.478297;"
          x="1242.353"
          y="3335.1028"
-         id="tspan4252-9-9">Based on the universe of Hereva created by David Revoy with contributions by Craig Maloney. Corrections by Willem Sonke, Moini, Hali, CGand and Alex Gryson.</tspan></text>
+         id="tspan4252-9-9">David Revoy님이 Craig Maloney님의 도움으로 제작한 헤레바 세계관을 기반으로 함. 수정: Willem Sonke, Moini, Hali, CGand, Alex Gryson.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.72782516px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.85500004;fill:#ffffff;fill-opacity:1;stroke:#ffffff;filter:url(#filter5558-7)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.72782516px;line-height:125%;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.85500004;fill:#ffffff;fill-opacity:1;stroke:#ffffff;filter:url(#filter5558-7);stroke-width:0.59048993;"
        x="1240.6473"
        y="3372.8738"
        id="text4229"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       transform="matrix(1.305177,0,0,1.305177,-378.6424,-1026.6124)"><tspan
          sodipodi:role="line"
          x="1240.6473"
          y="3372.8738"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#ffffff;stroke:#ffffff"
-         id="tspan4169">Licence : Creative Commons Attribution 4.0, Software: Krita 3.1, Inkscape 0.91 on Manjaro XFCE</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;font-family:'Nanum Pen Script OTF';-inkscape-font-specification:'Nanum Pen Script OTF';fill:#ffffff;stroke:#ffffff;stroke-width:0.59048993;"
+         id="tspan4169">라이선스: 크리에이티브 커먼즈 저작자표시 4.0, 소프트웨어: 만자로 XFCE에서 크리타 3.1, 잉크스케이프 0.91 사용</tspan></text>
   </g>
 </svg>

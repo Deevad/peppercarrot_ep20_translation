@@ -27,7 +27,7 @@ License
 * Indonesian: Bonaventura Aditya Perdana
 * Italian: Carlo Gandolfi, corrections: Antonio Parisi
 * Japanese: guruguru
-* Korean: Shikamaru Yamamoto
+* Korean: Shikamaru Yamamoto, Jihoon Kim
 * Lojban: Gleki Arxokuna
 * Mexicano: RJ Quiralta
 * Norwegian: Thomas Nordstrøm
